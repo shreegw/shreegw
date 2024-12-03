@@ -15,7 +15,7 @@ src="https://hdlbits.01xz.net/images/logo270.png" width=90 height=30 /></a>
 
 </p>
 
-# Verilog Projects
+# Verilog and FPGA Projects
 
 - [Air Conditioner Controller using FPGA ](https://github.com/shreegw/FPGA-Thermostat-Controller) 
 - [RISC V Processor ISA ](https://github.com/shreegw/RISC-V-Projects)
