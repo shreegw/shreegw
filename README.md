@@ -23,13 +23,15 @@ src="https://hdlbits.01xz.net/images/logo270.png" width=90 height=30 /></a>
 - [Artihmetic Adders and Subtractors](https://github.com/shreegw/Verilog-and-Projects/tree/main/1.%20Adder%2C%20RCA%2C%20Subtractor)
 - [Up Down Counter with Seven Segment Display](https://github.com/shreegw/Verilog-and-Projects/tree/main/2.%20Up-Down%20Counter%20)
 - [n-bit Pseudo Random Number Generator](https://github.com/shreegw/Verilog-and-Projects/tree/main/3.%2016%20Bit%20LFSR%20PRNG)
+- [Booth's Multiplier Algorithm](https://github.com/shreegw/Verilog-and-Projects/tree/main/5.%20Booth's%20Multiplier)
 
 # Machine Learning Projects
 - [Automatic Attendance System using Computer Vision](https://github.com/shreegw/Face-Recognition-project)
 - [Image Dehazing using Matlab]()
 
 # Computer Organization and Architecture simulations and projects
-- [Ripple Carry Adder Delay Simulation](https://github.com/shreegw/RippleCarryAdder-DelaySimulation)
+- [Ripple Carry Adder Delay Simulation using C++](https://github.com/shreegw/RippleCarryAdder-DelaySimulation)
+- [Booth's Multiplier Algorithm in verilog](https://github.com/shreegw/Verilog-and-Projects/tree/main/5.%20Booth's%20Multiplier)
 
 # Misc. Projects
 - [PCB Design Projects](https://github.com/shreegw/PCB-Design)
