@@ -17,6 +17,7 @@ src="https://hdlbits.01xz.net/images/logo270.png" width=90 height=30 /></a>
 
 # Verilog and FPGA Projects
 
+- [HDLBits Solutions](https://github.com/shreegw/HDLBits-Solutions)
 - [Air Conditioner Controller using FPGA ](https://github.com/shreegw/FPGA-Thermostat-Controller) 
 - [RISC V Processor ISA ](https://github.com/shreegw/RISC-V-Projects)
 - [Hamming Code (7,4) ](https://github.com/shreegw/Verilog-and-Projects/tree/main/4.%20Hamming%20(7%2C4)) 
@@ -35,7 +36,7 @@ src="https://hdlbits.01xz.net/images/logo270.png" width=90 height=30 /></a>
 
 # Misc. Projects
 - [PCB Design Projects](https://github.com/shreegw/PCB-Design)
-- [HDLBits Solutions](https://github.com/shreegw/HDLBits-Solutions)
+
   
 
 
