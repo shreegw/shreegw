@@ -25,6 +25,7 @@ src="https://hdlbits.01xz.net/images/logo270.png" width=90 height=30 /></a>
 - [Up Down Counter with Seven Segment Display](https://github.com/shreegw/Verilog-and-Projects/tree/main/2.%20Up-Down%20Counter%20)
 - [n-bit Pseudo Random Number Generator](https://github.com/shreegw/Verilog-and-Projects/tree/main/3.%2016%20Bit%20LFSR%20PRNG)
 - [Booth's Multiplier Algorithm](https://github.com/shreegw/Verilog-and-Projects/tree/main/5.%20Booth's%20Multiplier)
+- [AES Encryption Algorithm](https://github.com/shreegw/Verilog-Projects/tree/main/6.%20AES-128%20Encryption)
 
 # Machine Learning Projects
 - [Automatic Attendance System using Computer Vision](https://github.com/shreegw/Face-Recognition-project)
