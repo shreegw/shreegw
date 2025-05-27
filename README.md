@@ -29,7 +29,7 @@ src="https://hdlbits.01xz.net/images/logo270.png" width=90 height=30 /></a>
 
 # Machine Learning Projects
 - [Automatic Attendance System using Computer Vision](https://github.com/shreegw/Face-Recognition-project)
-- [Image Dehazing using Matlab]()
+- [Dehazing by Artificial Multiple Exposure image fusion]()
 
 # Computer Organization and Architecture simulations and projects
 - [Ripple Carry Adder Delay Simulation using C++](https://github.com/shreegw/RippleCarryAdder-DelaySimulation)
