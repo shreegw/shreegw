@@ -18,7 +18,8 @@ src="https://hdlbits.01xz.net/images/logo270.png" width=90 height=30 /></a>
 # Verilog and FPGA Projects
 
 - [HDLBits Solutions](https://github.com/shreegw/HDLBits-Solutions)
-- [Air Conditioner Controller using FPGA ](https://github.com/shreegw/FPGA-Thermostat-Controller) 
+- [Air Conditioner Controller using FPGA ](https://github.com/shreegw/FPGA-Thermostat-Controller)
+- [TPM Functionality on an FPGA]()
 - [RISC V Processor ISA ](https://github.com/shreegw/RISC-V-Projects)
 - [Hamming Code (7,4) ](https://github.com/shreegw/Verilog-and-Projects/tree/main/4.%20Hamming%20(7%2C4)) 
 - [Artihmetic Adders and Subtractors](https://github.com/shreegw/Verilog-and-Projects/tree/main/1.%20Adder%2C%20RCA%2C%20Subtractor)
@@ -26,6 +27,7 @@ src="https://hdlbits.01xz.net/images/logo270.png" width=90 height=30 /></a>
 - [n-bit Pseudo Random Number Generator](https://github.com/shreegw/Verilog-and-Projects/tree/main/3.%2016%20Bit%20LFSR%20PRNG)
 - [Booth's Multiplier Algorithm](https://github.com/shreegw/Verilog-and-Projects/tree/main/5.%20Booth's%20Multiplier)
 - [AES Encryption Algorithm](https://github.com/shreegw/Verilog-Projects/tree/main/6.%20AES-128%20Encryption)
+- [UART Module]()
 
 # Machine Learning Projects
 - [Automatic Attendance System using Computer Vision](https://github.com/shreegw/Face-Recognition-project)
