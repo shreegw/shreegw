@@ -19,7 +19,7 @@ src="https://hdlbits.01xz.net/images/logo270.png" width=90 height=30 /></a>
 
 - [HDLBits Solutions](https://github.com/shreegw/HDLBits-Solutions)
 - [Air Conditioner Controller using FPGA ](https://github.com/shreegw/FPGA-Thermostat-Controller)
-- [TPM Functionality on an FPGA]()
+- [TPM Functionality on an FPGA](https://github.com/shreegw/TPM-functionality-on-FPGA)
 - [RISC V Processor ISA ](https://github.com/shreegw/RISC-V-Projects)
 - [Hamming Code (7,4) ](https://github.com/shreegw/Verilog-and-Projects/tree/main/4.%20Hamming%20(7%2C4)) 
 - [Artihmetic Adders and Subtractors](https://github.com/shreegw/Verilog-and-Projects/tree/main/1.%20Adder%2C%20RCA%2C%20Subtractor)
