@@ -27,11 +27,10 @@ src="https://hdlbits.01xz.net/images/logo270.png" width=90 height=30 /></a>
 - [n-bit Pseudo Random Number Generator](https://github.com/shreegw/Verilog-and-Projects/tree/main/3.%2016%20Bit%20LFSR%20PRNG)
 - [Booth's Multiplier Algorithm](https://github.com/shreegw/Verilog-and-Projects/tree/main/5.%20Booth's%20Multiplier)
 - [AES Encryption Algorithm](https://github.com/shreegw/Verilog-Projects/tree/main/6.%20AES-128%20Encryption)
-- [UART Module]()
 
 # Machine Learning Projects
 - [Automatic Attendance System using Computer Vision](https://github.com/shreegw/Face-Recognition-project)
-- [Dehazing by Artificial Multiple Exposure image fusion]()
+- [Dehazing by Artificial Multiple Exposure image fusion](https://github.com/shreegw/Image-Deahzing-using-MATLAB/tree/main)
 
 # Computer Organization and Architecture simulations and projects
 - [Ripple Carry Adder Delay Simulation using C++](https://github.com/shreegw/RippleCarryAdder-DelaySimulation)
