@@ -21,6 +21,7 @@ src="https://hdlbits.01xz.net/images/logo270.png" width=90 height=30 /></a>
 - [Air Conditioner Controller using FPGA ](https://github.com/shreegw/FPGA-Thermostat-Controller)
 - [TPM Functionality on an FPGA](https://github.com/shreegw/TPM-functionality-on-FPGA)
 - [RISC V Processor ISA ](https://github.com/shreegw/RISC-V-Projects)
+- [Booth's Multiplier Algorithm in verilog](https://github.com/shreegw/Verilog-and-Projects/tree/main/5.%20Booth's%20Multiplier)
 - [Hamming Code (7,4) ](https://github.com/shreegw/Verilog-and-Projects/tree/main/4.%20Hamming%20(7%2C4)) 
 - [Artihmetic Adders and Subtractors](https://github.com/shreegw/Verilog-and-Projects/tree/main/1.%20Adder%2C%20RCA%2C%20Subtractor)
 - [Up Down Counter with Seven Segment Display](https://github.com/shreegw/Verilog-and-Projects/tree/main/2.%20Up-Down%20Counter%20)
