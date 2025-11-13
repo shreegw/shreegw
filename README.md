@@ -1,8 +1,7 @@
 # About Me
-- 👋 Hi, I’m Shree Ganesh, I am Currently pursuing Masters in Computer Engineering.
-- 👀 I’m interested in Hardware Security, Verilog, FPGAs, MCUs, SOCs, ICs, Embedded programming.
-- 🌱 I’m currently learning UVM, System Verilog, Computer Architecture, Cyber Physical Systems Security, Communication Protocols.
-- 💞️ I’m looking to collaborate on various FPGA projects
+- 👋 Hi, I’m Shree Ganesh, I am a Graduate Student with Masters in Computer Engineering.
+- 👀 I’m interested in FPGA Development, RTL Design and DFT Engineering.
+- 🌱 I’m currently learning GPU Architecture.
 - 📩 [contact me](mailto:shreeganeshwooradi@gmail.com?subject=Meeting%20Request&body=Hi%20Shree%20Ganesh,%0A%0AIwould%20like%20to%20schedule%20a%20meeting%20with%20you.%20Could%20we%20discuss%20availability%3F%0A%0AKind%20regards,%0A[Your%20Name]) 
 
 <p>
